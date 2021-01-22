@@ -1,0 +1,4 @@
+C:\Users\wischgol\Documents\Vorlesungen\CEG4500\salon-mutfak\Debug\final.exe
+C:\Users\wischgol\Documents\Vorlesungen\CEG4500\salon-mutfak\Debug\final.pdb
+C:\Users\hayde\Downloads\salon-mutfak3\salon-mutfak\Debug\final.exe
+C:\Users\hayde\Downloads\salon-mutfak3\salon-mutfak\Debug\final.pdb
